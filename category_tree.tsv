@@ -1,0 +1,69 @@
+Category Tree										
+ID	Category Name	Hierarchy	Level	Category ID string	Category Level 1	Category Level 2	Category Level 3	Category Level 4	Category Level 5	Category Level 6
+5051	Video	Video	1	5051	Video					
+5151	Break/Fix	Break/Fix	1	5151	Break/Fix					
+4709	Error Codes	Break/Fix > Error Codes	2	5151%2C4709		Error Codes				
+489	Patch	Break/Fix > Patch	2	5151%2C489		Patch				
+5169	General	Break/Fix > General	2	5151%2C5169		General				
+5170	Troubleshooting	Break/Fix > Troubleshooting	2	5151%2C5170		Troubleshooting				
+5171	Anomaly (NOT ON WEB)	Break/Fix > Anomaly (NOT ON WEB)	2	5151%2C5171		Anomaly (NOT ON WEB)				
+5181	Patch Roll-up	Break/Fix > Patch Roll-up	2	5151%2C5181		Patch Roll-up				
+6272	Publication Errata	Break/Fix > Publication Errata	2	5151%2C6272		Publication Errata				
+5152	How-to/Question	How-to/Question	1	5152	How-to/Question					
+2968	Example Applications	How-to/Question > Example Applications	2	5152%2C2968		Example Applications				
+5172	Use a Product	How-to/Question > Use a Product	2	5152%2C5172		Use a Product				
+5173	Use a Product in a System	How-to/Question > Use a Product in a System	2	5152%2C5173		Use a Product in a System				
+5174	Obtain Diagnostic Data	How-to/Question > Obtain Diagnostic Data	2	5152%2C5174		Obtain Diagnostic Data				
+5175	Install/Configure Hardware/Software	How-to/Question > Install/Configure Hardware/Software	2	5152%2C5175		Install/Configure Hardware/Software				
+5153	Product Notifications	Product Notifications	1	5153	Product Notifications					
+490	Product Safety Advisories	Product Notifications > Product Safety Advisories	2	5153%2C490		Product Safety Advisories				
+5176	Product Notices	Product Notifications > Product Notices	2	5153%2C5176		Product Notices				
+5177	Business Unit Notifications (NOT ON WEB)	Product Notifications > Business Unit Notifications (NOT ON WEB)	2	5153%2C5177		Business Unit Notifications (NOT ON WEB)				
+621	Stop Orders	Product Notifications > Stop Orders	2	5153%2C621		Stop Orders				
+713	Product Security	Product Notifications > Product Security	2	5153%2C713		Product Security				
+5154	Product Info	Product Info	1	5154	Product Info					
+2969	Standards and Certifications	Product Info > Standards and Certifications	2	5154%2C2969		Standards and Certifications				
+2970	Product Selection/Configuration	Product Info > Product Selection/Configuration	2	5154%2C2970		Product Selection/Configuration				
+491	Release Notes	Product Info > Release Notes	2	5154%2C491		Release Notes				
+492	Lifecycle Information	Product Info > Lifecycle Information	2	5154%2C492		Lifecycle Information				
+5155	Internal Process	Internal Process	1	5155	Internal Process					
+5163	TechSupport	Internal Process > TechSupport	2	5155%2C5163		TechSupport				
+5164	Customer Care	Internal Process > Customer Care	2	5155%2C5164		Customer Care				
+5165	Commercial Engineering	Internal Process > Commercial Engineering	2	5155%2C5165		Commercial Engineering				
+5166	Application Support	Internal Process > Application Support	2	5155%2C5166		Application Support				
+5168	Contact Lists (NOT ON WEB)	Internal Process > Application Support > Contact Lists (NOT ON WEB)	3	5155%2C5166%2C5168			Contact Lists (NOT ON WEB)			
+5183	General	Internal Process > Application Support > General	3	5155%2C5166%2C5183			General			
+5167	Advanced Networks/System Monitoring	Internal Process > Advanced Networks/System Monitoring	2	5155%2C5167		Advanced Networks/System Monitoring				
+5967	Answer Feedback	Internal Process > Answer Feedback	2	5155%2C5967		Answer Feedback				
+5971	Yes	Internal Process > Answer Feedback > Yes	3	5155%2C5967%2C5971			Yes			
+5972	No	Internal Process > Answer Feedback > No	3	5155%2C5967%2C5972			No			
+5156	Type of Content	Type of Content	1	5156	Type of Content					
+5178	Summary Document	Type of Content > Summary Document	2	5156%2C5178		Summary Document				
+5179	Child Document (FUTURE USE)	Type of Content > Child Document (FUTURE USE)	2	5156%2C5179		Child Document (FUTURE USE)				
+5182	Parent Document (FUTURE USE)	Type of Content > Parent Document (FUTURE USE)	2	5156%2C5182		Parent Document (FUTURE USE)				
+5528	Stub	Type of Content > Stub	2	5156%2C5528		Stub				
+6335	MSS TechReview	Type of Content > MSS TechReview	2	5156%2C6335		MSS TechReview				
+6069	KDA	KDA	1	6069	KDA					
+6070	TN Feedback	KDA > TN Feedback	2	6069%2C6070		TN Feedback				
+6071	Customer Feedback	KDA > Customer Feedback	2	6069%2C6071		Customer Feedback				
+6072	Engage	KDA > Engage	2	6069%2C6072		Engage				
+6073	CPD	KDA > CPD	2	6069%2C6073		CPD				
+6074	Search Gap Analysis	KDA > Search Gap Analysis	2	6069%2C6074		Search Gap Analysis				
+6075	Top n	KDA > Top n	2	6069%2C6075		Top n				
+6076	Ad hoc	KDA > Ad hoc	2	6069%2C6076		Ad hoc				
+6077	TN Recommendation (Flag)	KDA > TN Recommendation (Flag)	2	6069%2C6077		TN Recommendation (Flag)				
+6278	Lifecycle	KDA > Lifecycle	2	6069%2C6278		Lifecycle				
+6279	Other RA Dept.	KDA > Other RA Dept.	2	6069%2C6279		Other RA Dept.				
+6280	KCS Solve Loop	KDA > KCS Solve Loop	2	6069%2C6280		KCS Solve Loop				
+6461	Data Request	KDA > Data Request	2	6069%2C6461		Data Request				
+6456	Data Req. - Report	KDA > Data Request > Data Req. - Report	3	6069%2C6461%2C6456			Data Req. - Report			
+6457	Data Req. - Cron Job	KDA > Data Request > Data Req. - Cron Job	3	6069%2C6461%2C6457			Data Req. - Cron Job			
+6458	Data Req. - Break/Fix	KDA > Data Request > Data Req. - Break/Fix	3	6069%2C6461%2C6458			Data Req. - Break/Fix			
+6459	Data Req. - Enhancement Request	KDA > Data Request > Data Req. - Enhancement Request	3	6069%2C6461%2C6459			Data Req. - Enhancement Request			
+6460	Data Req. - Other	KDA > Data Request > Data Req. - Other	3	6069%2C6461%2C6460			Data Req. - Other			
+6273	KCS	KCS	1	6273	KCS					
+6274	KCS Concept	KCS > KCS Concept	2	6273%2C6274		KCS Concept				
+6275	KCS Question	KCS > KCS Question	2	6273%2C6275		KCS Question				
+6276	KCS Process / Tools	KCS > KCS Process / Tools	2	6273%2C6276		KCS Process / Tools				
+6277	KDA Process / Tools	KCS > KDA Process / Tools	2	6273%2C6277		KDA Process / Tools				
+7	General	General	1	7	General					
